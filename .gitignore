@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.log
+*.tmp
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+# Локальные конфиги с путями
+claude_desktop_config_local.json

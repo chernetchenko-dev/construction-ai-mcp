@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "renga": {
+      "command": "python",
+      "args": ["C:\\projects\\construction-ai-mcp\\renga-mcp\\renga_mcp_server_v2.py"]
+    },
+    "msproject": {
+      "command": "python",
+      "args": ["C:\\projects\\construction-ai-mcp\\msproject-mcp\\msproject_mcp_server.py"],
+      "env": { "MSP_MODE": "com" }
+    }
+  }
+}
